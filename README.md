@@ -1,7 +1,6 @@
 # svm_sample
 - SVMのプログラム
 - 使用するデータ
-
 -- train.csv：学習データ
 -- train_label.csv：学習データのラベル
 -- valid.csv：検証データ
